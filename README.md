@@ -34,7 +34,7 @@ Input (28, 28)
 
 ## Results
 
-<img width="1039" height="469" alt="image" src="https://github.com/user-attachments/assets/220b2a13-3a3e-46bb-945d-d3ab9f8166e7" />
+<img width="1093" height="465" alt="image" src="https://github.com/user-attachments/assets/0a7c06aa-813b-4aa2-bda2-4a6b7cceaf13" />
 
 
 ## Custom Image Testing
